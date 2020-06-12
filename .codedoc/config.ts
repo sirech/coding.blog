@@ -20,7 +20,7 @@ export const config = /*#__PURE__*/configuration({
   },
   page: {
     title: {
-      base: 'Coding Blog Boilerplate'         // --> change this to change your blog's title
+      base: 'Mario Fernandez'         // --> change this to change your blog's title
     },
     favicon: '/favicon.ico'
   },
@@ -28,14 +28,14 @@ export const config = /*#__PURE__*/configuration({
     codingBlog({
       assets: [
         'img',
-        'favicon.ico',
+        'favicon.png',
       ]
     })
   ],
   misc: {
     github: {
-      repo: 'coding-blog-boilerplate',
-      user: 'CONNECT-platform'
+      repo: 'coding.blog',
+      user: 'sirech'
     }
   }
 });

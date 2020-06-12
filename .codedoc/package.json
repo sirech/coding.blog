@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@codedoc/cli": "^0.2.1",
     "@codedoc/coding-blog-plugin": "^0.1.5",
     "@codedoc/core": "^0.2.0"
   }
